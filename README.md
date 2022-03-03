@@ -15,7 +15,13 @@ Deep learning images classification using transfert learning on VGG16
 ### TO DO LIST
 - [x] Data loading
 - [x] Data preprocessing
-- [ ] Model creation
-- [ ] Randomize
+- [ ] Model creation ( ajout flatten )
+- [ ] Randomize 
 - [ ] Training
 - [ ] Metrics
+
+
+### PPT 
+- [ ] contexte
+- [ ] technologie (transfert learning vgg16 -> preprocess vgg16, data augmentation le tout car petit dataset)
+- [ ] Imagenet
